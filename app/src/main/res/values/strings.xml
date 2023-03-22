@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string-array name="places">
+        <item>Present Location</item>
+        <item>New York</item>
+        <item>Singapore</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Sydney</item>
+        <item>Melbourne</item>
+    </string-array>
+</resources>
